@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 Jul 2026 13:04:27 at https://bracketweb.com/tolakwp/onepage-home-two/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bracketweb.com/tolakwp/onepage-home-two/ -O1 "F:\June\CodePSS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/images/icon/bx_loader.gif (from https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/bxslider/jquery.bxslider.css?ver=1703812994)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/img/bx-slider/controls.png (from https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/bxslider/jquery.bxslider.css?ver=1703812994)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/owl-carousel/owl.video.play.png (from https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/owl-carousel/owl.carousel.min.css?ver=1703812994)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/timepicker/images/ui-icons_444444_256x240.png (from https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/timepicker/timePicker.css?ver=1703812994)
+13:06:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/jquery-ui/images/ui-icons_cd0a0a_256x240.png (from https://bracketweb.com/tolakwp/wp-content/plugins/tolak-addon/assets/vendors/jquery-ui/jquery-ui.css?ver=1703812994)
+13:06:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bracketweb.com/tolakwp/wp-content/themes/tolak/assets/vendors/icofont/fonts/icofont.woff2 (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/assets/vendors/icofont/icofont.min.css?ver=5.15.1)
+13:06:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bracketweb.com/tolakwp/wp-content/themes/tolak/assets/vendors/icofont/fonts/icofont.woff (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/assets/vendors/icofont/icofont.min.css?ver=5.15.1)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/leaf-1-1.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/team-shape-1.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/testimonial-bg-quote.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/close.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/backgrounds/page-header-bg-1-1.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/page-header-bg-1-2.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/page-header-bg-shape-1.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/page-header-bg-shape-2.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/slider-1-overlay.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/about-2-shape-3.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/project-1-hover.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/solution-1-1-shape.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+13:06:47	Error: 	"Not Found" (404) at link https://bracketweb.com/tolakwp/wp-content/themes/images/shapes/work-process-overlay.png (from https://bracketweb.com/tolakwp/wp-content/themes/tolak/style.css?ver=1783582468)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 25 seconds : 231 links scanned, 210 files written (10305387 bytes overall) [7453138 bytes received at 51400 bytes/sec], 6042433 bytes transferred using HTTP compression in 127 files, ratio 22%, 13.5 requests per connection
+(17 errors, 3 warnings, 0 messages)
